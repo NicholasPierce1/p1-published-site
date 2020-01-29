@@ -27,4 +27,4 @@ This repo will be used for continual practice in utilizing markdown coupled with
 **Nick Pierce**
 - degree: Computer Science: Mobile Emphasis
 - picture of me:
-![Profile headshot](C:\Users\s529822\Pictures\Saved Pictures\HeadshotProfile.jpg)
+![Profile headshot](https://github.com/NicholasPierce1/p1-published-site/blob/master/HeadshotProfile.jpg)
