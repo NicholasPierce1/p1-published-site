@@ -1,37 +1,21 @@
-# WebApplications-Module1-GithubPages
+Nick Pierce,  Section 03, Dr. Eloe
 
-## Markdown Reference
-[Click here to learn all the things you can do in markdown!](https://www.markdownguide.org/basic-syntax)
+ 
 
-## Languages/Technologies I Know
-- Java
-- C#
-- Kotlin
-- Dart
-- JavaScript
-- SQL/MySQL
-- Html/CSS
-- Swift
-- Python
+Hello, I am a junior pursuing a degree in Computer Science with a mobile computing emphasis.
 
-## My Most Experienced Langauges/Techologies
-1. C#
-1. Java
-1. Swift
-1. SQL/MySQL
-1. Html/CSS
-1. Dart
-1. Python
-1. JavaScript
+ 
 
-## My Favorite Languages/Techonologies Tutorial Guides  
-### C#
-![C# logo](https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png)  
-(Image provided by wikipedia)  
-[Learn more about C# and all its capabilities!](https://www.tutorialspoint.com/csharp/index.htm)
+I was raised in a small, rural town called Kearney- not to be confused with Kearney, NE! Our town is a big sports town to where we only talk about football or the weather (interesting conversations, I know).  I was a track and cross country runner my entire time there- which explains my patience and tenacity for programming errors!   Computers were so third world in my town; fortuitously, my father is a software architect so I grew my affinity for technology from him!  Today, I still loving running and coding, so I guess much hasn't changed!
 
-### Java
-![Java logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)  
-(Image provided by wikipedia)  
-[Learn more about Java and all its capabilities!](https://www.tutorialspoint.com/java/index.htm)
+ 
 
+ My career aspirations are ambitious but simple: to acquire a position in software architecture like my father.  I always loved designing and analyzing solutions as well as learning new technologies/ development paradigms.  It is my goal to learn as many languages, platforms, and design patterns I can to better prepare myself for what is to  come!  I am allured to web and application development.  I aimed to be a full stack developer ( develop both front-end and back-end deliverables)- hence why I'm here!
+
+ 
+
+Something interesting about myself? In spite of being a programmer I hate playing video games all day (mind blowing right)?  Feel free to check and add my linkedin account! I look forward to having fun learning with you all!
+
+##Linkedin:
+
+[LinkedIn Profile](https://www.linkedin.com/in/nicholas-pierce-8222a6170)
