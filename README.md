@@ -1,8 +1,8 @@
 # p1-published-site
 
 ## repository links
-- **soure repository**: https://github.com/NicholasPierce1/p1-published-site
-- **git hub page io**: https://nicholaspierce1.github.io/p1-published-site/
+- [**soure repository**](https://github.com/NicholasPierce1/p1-published-site)
+- [**git hub page io**](https://nicholaspierce1.github.io/p1-published-site)
 
 ## about
 This repo will be used for continual practice in utilizing markdown coupled with familiarity with cloud and local repo workflow/management.
