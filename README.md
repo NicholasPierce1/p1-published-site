@@ -18,7 +18,7 @@ This repo will be used for continual practice in utilizing markdown coupled with
 **IMPORTANT ASIDE: does not include software language/s**
 - recommended: markdown for fast, easy text rendering-- Github already compatible with markdown! [see markdown to learn](https://www.markdownguide.org/basic-syntax)
 
-## recommended resouces for web development
+## recommended resources for web development
 - w3schools: excellent resource for fullstack development! Retains tutorials, code snippets, documentation, and external resource references for most popular languages, platforms, and frameworks.  [See w3schools to get stareted today!](https://www.w3schools.com)
 - tutorials point: sometimes, seeing a third-party/birds eye view perspective supplements much more clarity to a predicament or design principle.  Whether its general towards a language or specific towards a framework TutorialsPoint is a trusted go-to resource to answer your immediate questions! [Visit TutorialsPoint today!](https://www.tutorialspoint.com/index.htm)
 - stack overflow: Often regarded as the programmer's book of truth, if you stumbled upon a problem, chances are- unless you're really talented- somebody else has too!  Stack Overflow is an excellent, diverse community all of skill/ experience levels to solve your questions!  [Start asking on StackOverflow today!](https://stackoverflow.com)
@@ -27,4 +27,4 @@ This repo will be used for continual practice in utilizing markdown coupled with
 **Nick Pierce**
 - degree: Computer Science: Mobile Emphasis
 - picture of me:
-![Profile headshot](C:\Users\s529822\Pictures\Saved Pictures)
+![Profile headshot](C:\Users\s529822\Pictures\Saved Pictures\HeadshotProfile.jpg)
